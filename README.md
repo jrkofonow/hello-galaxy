@@ -1,4 +1,4 @@
 # hello-galaxy
 second attempt
 
-Just trying to figure this stuff out
+made some more edits using text wrangler
